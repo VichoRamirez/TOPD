@@ -14,18 +14,18 @@ Realizar comparaciones por subgrupo:✅
 - Ejemplo: sexo, grupo etario, servicio de salud, tipo de ingreso.✅
 - Tablas agregadas (groupby().agg()) y visualizaciones con matplotlib.✅
 
-Interpretar hallazgos preliminares:❌
+Interpretar hallazgos preliminares:✅
 - Hipótesis refinadas basadas en patrones observados.❌
 
-Selección justificada de variable objetivo (ej: DIAS_ESTANCIA limpio, TIPOALTA, subconjunto por diagnóstico)❌
+Selección justificada de variable objetivo (ej: DIAS_ESTANCIA limpio, TIPOALTA, subconjunto por diagnóstico)✅
 
-Ingeniería de variables y selección de features:❌
-- Justificar por qué ciertas variables podrían ser útiles para predecir la variable objetivo.❌
+Ingeniería de variables y selección de features:✅
+- Justificar por qué ciertas variables podrían ser útiles para predecir la variable objetivo.✅
 - Identificar correlaciones, redundancias o valores extremos.❌
 
 Preparación de datos:✅
 - Limpieza, tratamiento de nulos, codificación categórica si corresponde (get_dummies, etc.).✅
-- Generación de nuevas variables si son relevantes para el fenómeno (edad categorizada, ratios, etc.).❌
+- Generación de nuevas variables si son relevantes para el fenómeno (edad categorizada, ratios, etc.).✅
 
 Exploración visual y justificación del enfoque:❌
 - Visualizaciones multivariadas para entender relaciones clave.❌
