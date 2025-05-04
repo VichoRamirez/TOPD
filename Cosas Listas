@@ -1,11 +1,14 @@
 ✅❌
-Revisar y refinar la pregunta de investigación❌
-• ¿Es clara y medible? ¿Requiere ajustes tras la primera exploración?❌
+Revisar y refinar la pregunta de investigación✅
+• ¿Es clara y medible? ¿Requiere ajustes tras la primera exploración?✅
+    ¿Cuáles son las variables clave que permiten construir un modelo predictivo de la duración de la estancia hospitalaria de un paciente, y con qué precisión dicho modelo puede estimar ese tiempo de estancia?
 
-Seleccionar al menos 3 variables clave del dataset y analizarlas:✅❌❌
-• Medidas de tendencia central y dispersión (mean(), median(), std(), etc.).✅❌❌
-• Distribuciones (histogramas, boxplots).❌❌❌
-• Correlación entre variables numéricas (.corr() o np.corrcoef).❌❌❌
+Seleccionar al menos 3 variables clave del dataset y analizarlas:✅✅✅✅
+    Variable objetivo: "DIAS_ESTANCIA"
+    Variables Independientes Tentativas: "HOSPITAL", "IR_29301_MORTALIDAD", "IR_29301_SEVERIDAD"
+• Medidas de tendencia central y dispersión (mean(), median(), std(), etc.).✅❌❌❌
+• Distribuciones (histogramas, boxplots).❌❌❌❌
+• Correlación entre variables numéricas (.corr() o np.corrcoef).❌❌❌❌
 
 Realizar comparaciones por subgrupo:❌
 • Ejemplo: sexo, grupo etario, servicio de salud, tipo de ingreso.❌
