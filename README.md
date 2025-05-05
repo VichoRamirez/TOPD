@@ -27,6 +27,6 @@ Preparación de datos:✅
 - Limpieza, tratamiento de nulos, codificación categórica si corresponde (get_dummies, etc.).✅
 - Generación de nuevas variables si son relevantes para el fenómeno (edad categorizada, ratios, etc.).✅
 
-Exploración visual y justificación del enfoque:❌
+Exploración visual y justificación del enfoque:✅
 - Visualizaciones multivariadas para entender relaciones clave.✅
-- Reflexión sobre qué modelo sería apropiado y por qué, sin implementarlo aún.❌
+- Reflexión sobre qué modelo sería apropiado y por qué, sin implementarlo aún.✅
